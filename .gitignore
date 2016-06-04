@@ -2,3 +2,4 @@
 *.cache
 MarkdownEditing.taskpaper
 /_warehouse
+.DS_Store
